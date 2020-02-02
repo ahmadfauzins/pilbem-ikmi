@@ -1,5 +1,7 @@
 # E-Pilbem IKMI Cirebon Tahun 2020
 ![Pilbem](https://user-images.githubusercontent.com/48645478/72682347-9f7b8d00-3afe-11ea-9f62-f436bf0c827c.jpg)
+![hasil2](https://user-images.githubusercontent.com/48645478/73607192-a1a51780-45e5-11ea-8105-4369598a2975.png)
+
 
 
 # Fitur
